@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DogPay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://dogpay.com
+DogPay is a global fintech platform that enables spending, receiving, converting, and managing money across fiat and cryptocurrency. It offers card‑as‑a‑service, crypto payment gateway, bank‑as‑a‑service, global payouts, and other financial products for individuals and businesses, with APIs for integration.
+
+**Areas:** Company · Fintech · Payments · Crypto · API
+
+## DogPay on APIs.io
+
+Everything profiled for DogPay is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dogpay-com/](https://apis.io/providers/dogpay-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (27)
+
+- [DogPay Acquiring API](https://apis.io/apis/dogpay-com/dogpay-com-acquiring-api/) — The Acquiring API from DogPay — 2 operation(s) for acquiring.
+- [DogPay Auth API](https://apis.io/apis/dogpay-com/dogpay-com-auth-api/) — The Auth API from DogPay — 1 operation(s) for auth.
+- [DogPay Balance API](https://apis.io/apis/dogpay-com/dogpay-com-balance-api/) — The Balance API from DogPay — 1 operation(s) for balance.
+- [DogPay Budget API](https://apis.io/apis/dogpay-com/dogpay-com-budget-api/) — The Budget API from DogPay — 4 operation(s) for budget.
+- [DogPay Business Onboarding API](https://apis.io/apis/dogpay-com/dogpay-com-business-onboarding-api/) — The Business Onboarding API from DogPay — 11 operation(s) for business onboarding.
+- [DogPay Card Account API](https://apis.io/apis/dogpay-com/dogpay-com-card-account-api/) — The Card Account API from DogPay — 2 operation(s) for card account.
+- [DogPay Card Customer API](https://apis.io/apis/dogpay-com/dogpay-com-card-customer-api/) — The Card Customer API from DogPay — 1 operation(s) for card customer.
+- [DogPay Card Holder API](https://apis.io/apis/dogpay-com/dogpay-com-card-holder-api/) — The Card Holder API from DogPay — 2 operation(s) for card holder.
+- [DogPay Card Issuance API](https://apis.io/apis/dogpay-com/dogpay-com-card-issuance-api/) — The Card Issuance API from DogPay — 6 operation(s) for card issuance.
+- [DogPay Card Management API](https://apis.io/apis/dogpay-com/dogpay-com-card-management-api/) — The Card Management API from DogPay — 7 operation(s) for card management.
+- [DogPay Card Preparation API](https://apis.io/apis/dogpay-com/dogpay-com-card-preparation-api/) — The Card Preparation API from DogPay — 4 operation(s) for card preparation.
+- [DogPay Entity Management API](https://apis.io/apis/dogpay-com/dogpay-com-entity-management-api/) — The Entity Management API from DogPay — 5 operation(s) for entity management.
+- [DogPay Fee & Transactions API](https://apis.io/apis/dogpay-com/dogpay-com-fee-transactions-api/) — The Fee & Transactions API from DogPay — 4 operation(s) for fee & transactions.
+- [DogPay Fees & Transfers API](https://apis.io/apis/dogpay-com/dogpay-com-fees-transfers-api/) — The Fees & Transfers API from DogPay — 2 operation(s) for fees & transfers.
+- [DogPay File Management API](https://apis.io/apis/dogpay-com/dogpay-com-file-management-api/) — The File Management API from DogPay — 3 operation(s) for file management.
+- [DogPay FX API](https://apis.io/apis/dogpay-com/dogpay-com-fx-api/) — The FX API from DogPay — 3 operation(s) for fx.
+- [DogPay Individual Onboarding API](https://apis.io/apis/dogpay-com/dogpay-com-individual-onboarding-api/) — The Individual Onboarding API from DogPay — 5 operation(s) for individual onboarding.
+- [DogPay OTC API](https://apis.io/apis/dogpay-com/dogpay-com-otc-api/) — The OTC API from DogPay — 1 operation(s) for otc.
+- [DogPay Payout API](https://apis.io/apis/dogpay-com/dogpay-com-payout-api/) — The Payout API from DogPay — 7 operation(s) for payout.
+- [DogPay Payout V2 API](https://apis.io/apis/dogpay-com/dogpay-com-payout-v2-api/) — The Payout V2 API from DogPay — 1 operation(s) for payout v2.
+- [DogPay Physical Cards API](https://apis.io/apis/dogpay-com/dogpay-com-physical-cards-api/) — The Physical Cards API from DogPay — 6 operation(s) for physical cards.
+- [DogPay Spending Limits API](https://apis.io/apis/dogpay-com/dogpay-com-spending-limits-api/) — The Spending Limits API from DogPay — 1 operation(s) for spending limits.
+- [DogPay Transactions API](https://apis.io/apis/dogpay-com/dogpay-com-transactions-api/) — The Transactions API from DogPay — 4 operation(s) for transactions.
+- [DogPay Transfer API](https://apis.io/apis/dogpay-com/dogpay-com-transfer-api/) — The Transfer API from DogPay — 4 operation(s) for transfer.
+- [DogPay VA API](https://apis.io/apis/dogpay-com/dogpay-com-va-api/) — The VA API from DogPay — 9 operation(s) for va.
+- [DogPay VA Transaction API](https://apis.io/apis/dogpay-com/dogpay-com-va-transaction-api/) — The VA Transaction API from DogPay — 4 operation(s) for va transaction.
+- [DogPay Wallet API](https://apis.io/apis/dogpay-com/dogpay-com-wallet-api/) — The Wallet API from DogPay — 2 operation(s) for wallet.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Dogpay Com Webhooks](https://apis.io/asyncapis/dogpay-com/dogpay-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [DogPay Agentic Access](https://apis.io/agentic-access/dogpay-com/dogpay-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Dogpay Com Context](https://apis.io/jsonld/dogpay-com/dogpay-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [DogPay API Rules](https://apis.io/rules/dogpay-com/dogpay-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [DogPay Authentication](https://apis.io/security/dogpay-com/dogpay-com-authentication/)
+- [DogPay Domain Security](https://apis.io/security/dogpay-com/dogpay-com-domain-security/)
+- [DogPay Trust Center](https://apis.io/security/dogpay-com/dogpay-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [DogPay Plans Pricing](https://apis.io/plans/dogpay-com/dogpay-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dogpay.com)
+- [Documentation](https://docs.dogpay.com/)
+- [Getting started](https://docs.dogpay.com/docs/quick-start)
+- [API reference](https://docs.dogpay.com/reference)
+- [Pricing](https://dogpay.com/us/pricing)
+- [Support](https://dogpay.com/us/help-center)
+- [Changelog](https://docs.dogpay.com/changelog)
+- [Blog](https://dogpay.com/us/blog)
+- [Compliance](https://dogpay.com/us/licenses)
+- [Terms of service](https://dogpay.com/us/terms-service)
+- [Privacy policy](https://dogpay.com/us/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 56.8** — strong · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 56.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.4 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 61.3 |
+
+**Agent readiness 36.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 21.4** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dogpay-com/](https://apis.io/providers/dogpay-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DogPay: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dogpay-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
